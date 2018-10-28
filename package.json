@@ -1,0 +1,22 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "Maximilian Schwarzmuller",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shlomo89/Node-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shlomo89/Node-tutorial/issues"
+  },
+  "homepage": "https://github.com/Shlomo89/Node-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
